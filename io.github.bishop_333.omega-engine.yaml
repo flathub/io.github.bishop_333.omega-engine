@@ -51,5 +51,5 @@ modules:
         sha256: 5a8faf7f5b51f351b0a1618c06b6b98a5f1a6758f1d39818de2c87df2a0bac4a
       - type: file
         url: https://github.com/Bishop-333/OmegA-mod/releases/download/v3.4.2/z_omega-v3.4.2.pk3
-        sha256: a2e52bf0aed708c56336ad56d2c7cad8fd20f525189dbb35ee3b03277a9a962f
+        sha256: 1281200168357baa0290559e786452b52cfddd61aba15a576f2612a44e1650f8
 
