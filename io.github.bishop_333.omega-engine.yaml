@@ -34,6 +34,8 @@ modules:
         url: https://github.com/Bishop-333/OmegA-engine
         tag: v3.4.2
         commit: 2fc82396b22dbb7736687f0834ba094cb0f6a5a1
+      - type: patch
+        path: metainfo.patch
       - type: file
         path: openarena-omega
        # x-checker-data: # Allow the bot to automatically make PRs for new releases

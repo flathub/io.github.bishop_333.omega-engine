@@ -1,0 +1,17 @@
+--- a/code/unix/io.github.bishop_333.omega-engine.metainfo.xml
++++ b/code/unix/io.github.bishop_333.omega-engine.metainfo.xml
+@@ -43,6 +43,14 @@
+       <image>https://media.moddb.com/images/mods/1/53/52713/ctf_gate1.2.png</image>
+     </screenshot>
+   </screenshots>
++  <requires>
++    <control>keyboard</control>
++    <control>pointing</control>
++    <display_length compare="ge">768</display_length>
++  </requires>
++  <supports>
++    <control>gamepad</control>
++  </supports>
+   <content_rating type="oars-1.1">
+     <content_attribute id="violence-fantasy">moderate</content_attribute>
+     <content_attribute id="violence-bloodshed">mild</content_attribute>
